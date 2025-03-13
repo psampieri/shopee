@@ -2,9 +2,9 @@
 
 
 <sub> EN </sub>
-# Data Cleaning with Shopee dataset
+## Data Cleaning with Shopee dataset
 <sub> PT </sub>
-# Limpeza de dados com dataset da Shopee
+## Limpeza de dados com dataset da Shopee
 
 <sup> EN </sup>
 This is a data cleaning project that highlights the importance of this step when analysing data, in quest for insights and valuable business decisions.
