@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/404d1562-1c9d-422e-ae50-043520e056dc)
 
 
-<sup> EN </sup>
+<sub> EN </sub>
 # Data Cleaning with Shopee dataset
-<sup> PT </sup>
+<sub> PT </sub>
 # Limpeza de dados com dataset da Shopee
 
 <sup> EN </sup>
